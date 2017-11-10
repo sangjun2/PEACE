@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "336948552415",
+    "firebase_url": "https://peace-c66f9.firebaseio.com",
+    "project_id": "peace-c66f9",
+    "storage_bucket": "peace-c66f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336948552415:android:2c1dc8c3774ed70c",
+        "android_client_info": {
+          "package_name": "com.sangjun.mhp.peace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336948552415-3njg5c1tu327beaapbqaq20oj34ogqin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sangjun.mhp.peace",
+            "certificate_hash": "02c9a2d138a32a473634c31874d2f50eac8ca638"
+          }
+        },
+        {
+          "client_id": "336948552415-pc8kvki1crci42nre0konlffdjbvs72a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbA6zXZwXCjWcTbY9fcvvHDDUGZtjJb-k"
+        },
+        {
+          "current_key": "AIzaSyCPCx_bXERtbRlevVKz2hJXR6ZqL2pdL8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336948552415-pc8kvki1crci42nre0konlffdjbvs72a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

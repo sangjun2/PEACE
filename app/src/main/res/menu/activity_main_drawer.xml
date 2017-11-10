@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/menu_info">
+        <menu>
+            <item
+                android:id="@+id/info_facility"
+                android:title="시설 정보"/>
+            <item
+                android:id="@+id/info_reserve"
+                android:title="예약 현황"/>
+
+        </menu>
+
+    </item>
+
+    <item android:title="@string/menu_reserve">
+        <menu>
+            <item
+                android:id="@+id/reserve_menu1"
+                android:title="청소년 문화센터" />
+            <item
+                android:id="@+id/reserve_menu2"
+                android:title="평택시청" />
+            <item
+                android:id="@+id/reserve_menu3"
+                android:title="남부문화회관" />
+            <item
+                android:id="@+id/reserve_menu4"
+                android:title="북부문화회관" />
+            <item
+                android:id="@+id/reserve_menu5"
+                android:title="서부문화회관" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_etc">
+        <menu>
+            <item
+                android:id="@+id/etc_complain"
+                android:title="민원 제기" />
+            <item
+                android:id="@+id/etc_login"
+                android:title="로그인" />
+        </menu>
+
+    </item>
+
+</menu>
